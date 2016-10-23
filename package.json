@@ -1,0 +1,15 @@
+{
+  "name": "eyeseyesbaby",
+  "version": "1.0.0",
+  "description": "Eyes eyes for the blind blind.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team Awesome",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.0"
+  }
+}
